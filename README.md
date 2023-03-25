@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Resume Parsing with NLP**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **Artificial Intelligence , Machine Learning**
 
