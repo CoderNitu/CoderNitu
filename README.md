@@ -73,7 +73,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+<div align=center>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernitu&show_icons=true&locale=en&layout=compact" alt="codernitu" /></p>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=codernitu&show_icons=true&locale=en&layout=compact" alt="codernitu" />
 
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codernitu&" alt="codernitu" /></p>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=codernitu&" alt="codernitu" />
+  </div>
