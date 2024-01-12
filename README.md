@@ -75,7 +75,8 @@
 <br>
 <div align=center>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=codernitu&show_icons=true&locale=en&layout=compact" alt="codernitu" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=CoderNitu&show_icons=true&locale=en&layout=compact" alt="CoderNitu" />
    <br>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=codernitu&" alt="codernitu" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=CoderNitu&" alt="CoderNitu" />
+  
   </div>
