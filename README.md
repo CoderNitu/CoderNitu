@@ -1,18 +1,31 @@
 ![logo](https://github.com/CoderNitu/CoderNitu/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Nitu Alam</h1>
-<h3 align="center">I am an automated system enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codernitu&label=Profile%20views&color=0e75b6&style=flat" alt="codernitu" /> </p>
 
-- 🔭 I’m currently working on **Resume Parsing with NLP**
+ <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitu+Alam!;" />
+</h1>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+# <p align="center"> <img src="https://komarev.com/ghpvc/?username=codernitu&label=Profile%20views&color=0e75b6&style=flat" alt="CoderNitu" /> </p>
 
-- 💬 Ask me about **Artificial Intelligence , Machine Learning**
+ <h3 align="center">Automated System enthusiasts 👩‍💻| Proficient in Python, SQL, Power BI, ML, AI, NLP | Passionate about Transforming Data into Actionable Insights👁‍🗨</h3>
 
-- 📫 How to reach me **nitualam07@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I am a jolly man**
+## 
+<div align="center">
+  
+🌱 I’m currently learning and exploring **Data Science & Data Analytics**
+
+🥅 Goals: Learn and build something new on my own
+
+📫 Contact me at: **nitualam07@gmail.com**
+
+⚡ Fun fact: **It's free to use our brain**
+
+🌍 I'm based in India
+
+ </div>
+ 
+ <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
