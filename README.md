@@ -76,6 +76,6 @@
 <div align=center>
 
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=codernitu&show_icons=true&locale=en&layout=compact" alt="codernitu" />
-
+   <br>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=codernitu&" alt="codernitu" />
   </div>
