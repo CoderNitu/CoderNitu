@@ -28,6 +28,7 @@
 🌍 I'm based in India
 
  </div>
+ <hr/>
  
  ### 🤙 Socials
 
@@ -39,7 +40,7 @@
 <a href="https://auth.geeksforgeeks.org/user/nitualam07/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
 <a href="https://auth.geeksforgeeks.org/user/nitualam07/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 
-
+<hr/>
 
 
 ### ⭐ Skills
@@ -60,7 +61,17 @@
  <img src="https://img.shields.io/badge/PostgerSQL-%23323330.svg?style=for-the-badge&logo=PostgerSQL&logoColor=%23F7DF1E">
  <img src="https://img.shields.io/badge/TensorFlow-%23323330.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23F7DF1E">
 </p>
+<hr/>
 
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CoderNitu/CoderNitu/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+<hr/>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codernitu&show_icons=true&locale=en&layout=compact" alt="codernitu" /></p>
 
