@@ -38,7 +38,7 @@
 <a href="https://twitter.com/Tenacious_45"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://github.com/CoderNitu"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/nitualam07/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/Geeks_for_Geeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
-<a href="https://auth.geeksforgeeks.org/user/nitualam07/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
+<a href="https://www.quora.com/profile/Nitu-Alam-1"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 
 <hr/>
 
