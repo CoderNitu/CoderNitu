@@ -6,7 +6,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=CoderNitu&style=for-the-badge">
-<img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/CoderNitu">
 </p>
 
  <h3 align="center">Automated System enthusiasts 👩‍💻| Proficient in Python, SQL, Power BI, ML, AI, NLP | Passionate about Transforming Data into Actionable Insights👁‍🗨</h3>
