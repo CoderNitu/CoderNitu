@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=CoderNitu&style=for-the-badge">
 </p>
 
- <h3 align="center">Automated System enthusiasts 👩‍💻| Proficient in Python, SQL, Power BI, ML, AI, NLP | Passionate about Transforming Data into Actionable Insights👁‍🗨</h3>
+ <h3 align="center">𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙚𝙙 𝙎𝙮𝙨𝙩𝙚𝙢 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩𝙨 👩‍💻| 𝙋𝙧𝙤𝙛𝙞𝙘𝙞𝙚𝙣𝙩 𝙞𝙣 𝙋𝙮𝙩𝙝𝙤𝙣, 𝙎𝙌𝙇, 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄, 𝙈𝙇, 𝘼𝙄, 𝙉𝙇𝙋 | 𝙋𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙏𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢𝙞𝙣𝙜 𝘿𝙖𝙩𝙖 𝙞𝙣𝙩𝙤 𝘼𝙘𝙩𝙞𝙤𝙣𝙖𝙗𝙡𝙚 𝙄𝙣𝙨𝙞𝙜𝙝𝙩𝙨👁‍🗨</h3>
 
 <br/>
 
